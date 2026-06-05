@@ -70,3 +70,4 @@ threat modeling, hardening, and building the tooling around it.
 </p>
 
 <p align="center"><sub>Open to selective consulting on application &amp; infrastructure security.</sub></p>
+
