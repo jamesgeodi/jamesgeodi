@@ -1,3 +1,4 @@
+<!-- Profile README · github.com/jamesgeodi -->
 <h1 align="center">James Geodi</h1>
 
 <p align="center">
