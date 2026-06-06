@@ -2,7 +2,7 @@
 
 I'm learning software development by building small, hands-on projects.
 I like trying out different languages and getting comfortable with the
-fundamentals — clean code, version control, and actually finishing things -
+fundamentals - clean code, version control, and actually finishing things -
 before going deeper.
 
  London
