@@ -19,7 +19,7 @@ before going deeper.
 #### Projects I'm proud of
 
 - **[Prime-Flow](https://github.com/jamesgeodi/Prime-Flow)** -
-  Prime Flow — TypeScript/Node.JS SDK for smart routing of payments through multiple regional payment processors (PSPs)       with a single gateway Layer-403. SDK automatically selects the optimal region for each payment based on cost, percentage    of successful transactions and delay. The project will be released soon 
+  TypeScript/Node.JS SDK for smart routing of payments through multiple regional payment processors (PSPs)       with a       single gateway Layer-403. SDK automatically selects the optimal region for each payment based on cost, percentage    of     successful transactions and delay. The project will be released soon 
 - **[ATM-Machine-test-project](https://github.com/jamesgeodi/ATM-Machine-test-project)** -
   a console ATM simulator in Java. OOP practice: accounts, balances, transactions.
 - **[SandBox-Test](https://github.com/jamesgeodi/SandBox-Test)** -
