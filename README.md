@@ -18,13 +18,13 @@ before going deeper.
 
 #### Projects I'm proud of
 
-- **[Telegram-bot](https://github.com/jamesgeodi/Telegram-bot)** -
-  a quiz bot in Python with categories, scoring, answer streaks and a
-  leaderboard. Learned async and storing state in SQLite.
+- **[Prime-Flow](https://github.com/jamesgeodi/Prime-Flow)** -
+  Prime Flow — TypeScript/Node.JS SDK for smart routing of payments through multiple regional payment processors (PSPs)       with a single gateway Layer-403. SDK automatically selects the optimal region for each payment based on cost, percentage    of successful transactions and delay. The project will be released soon 
 - **[ATM-Machine-test-project](https://github.com/jamesgeodi/ATM-Machine-test-project)** -
   a console ATM simulator in Java. OOP practice: accounts, balances, transactions.
 - **[SandBox-Test](https://github.com/jamesgeodi/SandBox-Test)** -
   small front-end exercises in plain HTML/CSS/JS.
+  
 
 > Several of these are learning projects built while following tutorials and
 > reading open-source code. I focus on understanding *why* things work, not
